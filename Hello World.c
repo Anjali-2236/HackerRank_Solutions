@@ -1,3 +1,5 @@
+task- print the hello world and the given input line 
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
